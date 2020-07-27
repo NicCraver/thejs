@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+nicjs@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/nicjs/-/nicjs-0.0.1.tgz#12bbb86750edce785d1937b7406f5a8f63e427ef"
+  integrity sha512-YM86qUp/KnqASjwu7aUMIZwpSaYzTdbuHhRJjN7SjRCeIGnLfWL+kTZwTH/BJxnknj1Cyf5h/KKenMH75PDUYw==
